@@ -4,12 +4,11 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 matplotlib==3.3.4
 numpy>=1.9.2
-scipy>=0.15.1
 pandas>=0.19
 pyngrok==5.0.1
 requests==2.25.1
 scikit-learn==0.24.1
-scipy==1.6.0
+scipy>=0.15.1
 Send2Trash==1.5.0
 sklearn==0.0
 streamlit==0.76.0
