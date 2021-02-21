@@ -1,6 +1,6 @@
 # Weather_Classification
 
-<img src="https://github.com/vishvpatel-97/Weather_Classification/blob/master/images/Weather.png" width=500, height=400>
+<img src="https://github.com/vishvpatel-97/Weather_Classification/images/Weather.png" width=500, height=400>
 
 ## Have a glimpse on my Web App
 
