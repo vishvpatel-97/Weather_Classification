@@ -8,3 +8,7 @@
 
 ## Project Brief:
 
+- Data was taken from Kaggle.
+- First I have done **Preprocessing (Resizing & Flattening)** of images.
+- Used **Random Forest Classifier** for model training.
+- Deployed the model using **Streamlit library**.
