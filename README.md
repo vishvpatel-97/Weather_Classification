@@ -1,6 +1,6 @@
 # Weather_Classification
 
-![Alt text](https://github.com/vishvpatel-97/Weather_Classification/blob/main/images/Weather.png)
+![Alt text](https://github.com/vishvpatel-97/Weather_Classification/blob/main/images/Weather.PNG)
 
 ## Have a glimpse on my Web App
 
